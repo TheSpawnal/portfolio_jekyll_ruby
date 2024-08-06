@@ -11,26 +11,41 @@
 - name: Bash
   weight: 3
 
-- name: Scrum
+- name: Scrum/Agile
   weight: 3
 
-- name: Travis CI
+- name: CI/CD
   weight: 1
 
-- name: Jenkins
-  weight: 1
+- name: Debian
+  weight: 5
 
 - name: Chrome DevTools
   weight: 2
 
-- name: npm
+- name: MS-DB
   weight: 2
 
-- name: gulp
-  weight: 4
-
-- name: VS Code
+- name: VSCode
   weight: 3
 
 - name: Postman
   weight: 4
+
+- name: WSL2
+  weight: 4
+
+- name: Kubertenes
+  weight: 1
+
+- name: Prometheus
+  weight: 1
+
+- name: CUDA
+  weight: 2
+
+- name: Wireshark
+  weight: 3
+
+- name: AWS
+  weight: 1

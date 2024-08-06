@@ -6,28 +6,52 @@
 #   weight: 5
 
 - name: Angular
-  weight: 5
+  weight: 1
 
-- name: AngularJS
+- name: TypeScript
   weight: 3
 
 - name: React
-  weight: 4
+  weight: 2
 
 - name: Node
   weight: 1
 
-- name: Flutter
+- name: Spark
   weight: 2
 
-- name: Express
+- name: Tensorflow
   weight: 3
 
-- name: Django
+- name: CUDA
   weight: 1
 
-- name: Spring
+- name: Rails
   weight: 2
 
-- name: Rails
+- name: Keras
+  weight: 3
+
+- name: Scipy
+  weight: 2
+
+- name: Conda 
   weight: 4
+
+- name: Numpy
+  weight: 2
+
+- name: WSL
+  weight: 5
+
+- name: Pandas
+  weight: 2
+
+- name: MongoDB
+  weight: 2
+
+- name: MATLAB
+  weight: 2
+
+
+
