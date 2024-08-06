@@ -31,7 +31,7 @@
 
 - title: RUMBLE UK
   title-url: https://rumble-gym.com/
-  date: October 2020 – august 2021
+  date: Oct 2020 – aug 2021
   subtitle: Software Engineer | part-time
   tags:
     - tag: Python
@@ -43,7 +43,8 @@
 
 - title: VRIJE UNIVERSITEIT
   title-url: https://vu.nl/nl
-  date: 2020 - 2024
+  date: Sep 2020 - Dec 2024
+  subtitle: B.Sc. Computer Science
     - tag: C
     - tag: Assembly
     - tag: C++
@@ -52,8 +53,8 @@
     - tag: Lean
     - tag: LaTeX
     - tag: MATLAB
+    - tag: SQL
 
-  subtitle: B.Sc. Computer Science
   timeline-side: left
 
 - title: MIXBUFFET
@@ -65,8 +66,22 @@
     - tag: Apache
   timeline-side: right
 
+  - title: LE WAGON
+  title-url: https://www.lewagon.com/paris
+  date: Aug 2018 - Jan 2019 
+  subtitle:  Data Engineering boot-camp
+  tags:
+    - tag: Keras
+    - tag: Numpy
+    - tag: Pandas
+    - tag: FastAPI
+    - tag: Flask
+    - tag: postman
+    - tag: MongoDB
+  timeline-side: left
+
 - title: EESAB
   title-url: https://www.eesab.fr/brest/
-  date: September 2014 - May 2018
+  date: Sep 2014 - May 2018
   subtitle: B.Sc. Industrial and product design
   timeline-side: left
