@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "_data"
+		},
+		{
+			"path": "_includes"
+		},
+		{
+			"path": "_js"
+		},
+		{
+			"path": "_layouts"
+		},
+		{
+			"path": "_sass"
+		},
+		{
+			"path": "_site"
+		},
+		{
+			"path": "assets"
+		},
+		{
+			"path": "docs"
+		},
+		{
+			"path": "node_modules"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "_site"
+	}
+}

@@ -19,7 +19,7 @@
 
 - title: PAWY.CH
   title-url: https://www.pawy.ch/
-  date: June 2022 – September 2023
+  date: June 2022 - September 2023
   subtitle: Front-End Developer | part-time
   tags:
     - tag: REST APIs
@@ -31,7 +31,7 @@
 
 - title: RUMBLE UK
   title-url: https://rumble-gym.com/
-  date: Oct 2020 – aug 2021
+  date: Oct 2020 - aug 2021
   subtitle: Software Engineer | part-time
   tags:
     - tag: Python
@@ -45,6 +45,7 @@
   title-url: https://vu.nl/nl
   date: Sep 2020 - Dec 2024
   subtitle: B.Sc. Computer Science
+  tag: 
     - tag: C
     - tag: Assembly
     - tag: C++
@@ -54,7 +55,6 @@
     - tag: LaTeX
     - tag: MATLAB
     - tag: SQL
-
   timeline-side: left
 
 - title: MIXBUFFET
@@ -66,7 +66,7 @@
     - tag: Apache
   timeline-side: right
 
-  - title: LE WAGON
+- title: LE WAGON
   title-url: https://www.lewagon.com/paris
   date: Aug 2018 - Jan 2019 
   subtitle:  Data Engineering boot-camp
