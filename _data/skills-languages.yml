@@ -21,7 +21,7 @@
   weight: 4
 
 - name: C
-  weight: 3
+  weight: 5
 
 - name: Ruby
   weight: 3
@@ -36,7 +36,7 @@
   weight: 3
 
 - name: SQL
-  weight: 3
+  weight: 2
 
 - name: LaTeX
   weight: 3

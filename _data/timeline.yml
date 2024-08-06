@@ -17,45 +17,56 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: PAWY.CH
+  title-url: https://www.pawy.ch/
+  date: June 2022 – September 2023
+  subtitle: Front-End Developer | part-time
   tags:
-    - tag: React
+    - tag: REST APIs
     - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Angular
+    - tag: Node
+
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: RUMBLE UK
+  title-url: https://rumble-gym.com/
+  date: October 2020 – august 2021
+  subtitle: Software Engineer | part-time
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: Python
+    - tag: JavaScript
+    - tag: HTML5
+    - tag: React
+    - tag: APIs
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: VRIJE UNIVERSITEIT
+  title-url: https://vu.nl/nl
+  date: 2020 - 2024
+    - tag: C
+    - tag: Assembly
+    - tag: C++
+    - tag: Scala
+    - tag: Python | PyTorch | Tensorflow
+    - tag: Lean
+    - tag: LaTeX
+    - tag: MATLAB
+
+  subtitle: B.Sc. Computer Science
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
+- title: MIXBUFFET
+  title-url: https://mixbuffet.fr/
   date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+  subtitle: Technician Assistant
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Git
+    - tag: Apache
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: EESAB
+  title-url: https://www.eesab.fr/brest/
+  date: September 2014 - May 2018
+  subtitle: B.Sc. Industrial and product design
   timeline-side: left
