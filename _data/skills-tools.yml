@@ -29,8 +29,8 @@
 - name: VSCode
   weight: 3
 
-- name: Postman
-  weight: 4
+- name: FPGA
+  weight: 3
 
 - name: WSL2
   weight: 4
@@ -47,5 +47,5 @@
 - name: Wireshark
   weight: 3
 
-- name: AWS
+- name: Docker
   weight: 1

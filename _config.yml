@@ -35,7 +35,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Full-stack Software Engineer/Dev with a passion for back-end development, cloud architecture and financial technologies. I have most experience in machine learning projects like stock price prediction and developing distributed computing environments using clusters. Red Team.
+about_me_description: Problem solver, advisor, full-stack Software Engineer/Dev with a passion for back-end development, cloud architecture and financial technologies. I have most experience yet in machine learning projects like stock price prediction and developing distributed computing environments using clusters. Red Team.
 
 # SKILLS SECTION
 # show_skills_card:
