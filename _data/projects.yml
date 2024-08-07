@@ -14,7 +14,7 @@
 #     - tag: Node
 
 - name: ISA IJVM Emulator
-  descr: "A low level programming journey MIC-1 architecture with C."
+  descr: "A low level programming journey MIC-1 architecture."
   demo: https://example.com/
   tags: 
     - tag: JAS
@@ -24,7 +24,7 @@
     - tag: Java
 
 - name: Machine Learning; Stock Price Prediction Method based on LSTM and extensions
-  descr: "The project demonstrate the efficacy of combining LSTM with its extensions(CNN,Bi-LSTM, LSTM-K-means, Stacked LSTM), offering significant improvements in prediction accuracy and model adaptability to market dynamics. This study not only contributes to the field of stock price prediction but also opens new avenues for the application of machine learning in financial analysis."
+  descr: "The project demonstrates the efficacy of combining LSTM with its extensions (CNN, Bi-LSTM, LSTM-K-means, Stacked LSTM), offering significant improvements in prediction accuracy and model adaptability to market dynamics. This study not only contributes to the field of stock price prediction but also opens new avenues for the application of machine learning in financial analysis."
   demo: https://example.com/
   tags:
     - tag: Python
@@ -37,6 +37,19 @@
 
 - name: Deep Learning and Embedded Computing; Image Live Recognition
   descr: "Development of an SSH Tunneling Application Leveraging targeted Android phone cameras for real-time image recognition and analysis."
+  demo: https://example.com/
   tags:
     - tag: MATLAB
     - tag: C/C++
+
+- name: Data Wrangling; Central Bank Interest Rates Affect the Major Stock Market
+  descr: "This project investigates the impact of central bank interest rate adjustments on major U.S. stock market indices, particularly the S&P 500, utilizing advanced data wrangling techniques, to explore how changes in the federal funds rate influence financial market dynamics."
+  demo: https://example.com/
+  tags:
+    - tag: Jupyter Notebook
+    - tag: Numpy
+    - tag: Scipy
+    - tag: Pandas
+    - tag: Matplotlib
+    - tag: Seaborn
+    
