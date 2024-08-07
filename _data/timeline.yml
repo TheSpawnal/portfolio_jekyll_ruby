@@ -44,10 +44,9 @@
   title-url: https://vu.nl/nl
   date: Sep 2020 - Dec 2024
   subtitle: B.Sc. Computer Science
-  tag: 
-    - tag: C
+  tags: 
+    - tag: C/C++
     - tag: Assembly
-    - tag: C++
     - tag: Scala
     - tag: Python
     - tag: SQL
