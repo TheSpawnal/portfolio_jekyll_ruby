@@ -23,12 +23,20 @@
     - tag: GDB
     - tag: Java
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+- name: Machine Learning; Stock Price Prediction Method based on LSTM and extensions
+  descr: "The project demonstrate the efficacy of combining LSTM with its extensions(CNN,Bi-LSTM, LSTM-K-means, Stacked LSTM), offering significant improvements in prediction accuracy and model adaptability to market dynamics. This study not only contributes to the field of stock price prediction but also opens new avenues for the application of machine learning in financial analysis."
   demo: https://example.com/
   tags:
     - tag: Python
-    - tag: Django
+    - tag: Keras
+    - tag: Numpy
+    - tag: Pandas
+    - tag: Tensorflow
+    - tag: Scipy
+    - tag: .csv
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+- name: Deep Learning and Embedded Computing; Image Live Recognition
+  descr: "Development of an SSH Tunneling Application Leveraging targeted Android phone cameras for real-time image recognition and analysis."
+  tags:
+    - tag: MATLAB
+    - tag: C/C++
