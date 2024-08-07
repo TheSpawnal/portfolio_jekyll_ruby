@@ -22,11 +22,10 @@
   date: June 2022 - September 2023
   subtitle: Front-End Developer | part-time
   tags:
-    - tag: REST APIs
+    - tag: APIs
     - tag: Javascript
     - tag: Angular
     - tag: Node
-
   timeline-side: right
 
 - title: RUMBLE UK
@@ -50,10 +49,7 @@
     - tag: Assembly
     - tag: C++
     - tag: Scala
-    - tag: Python | PyTorch | Tensorflow
-    - tag: Lean
-    - tag: LaTeX
-    - tag: MATLAB
+    - tag: Python
     - tag: SQL
   timeline-side: left
 
@@ -76,7 +72,6 @@
     - tag: Pandas
     - tag: FastAPI
     - tag: Flask
-    - tag: postman
     - tag: MongoDB
   timeline-side: left
 
@@ -84,4 +79,4 @@
   title-url: https://www.eesab.fr/brest/
   date: Sep 2014 - May 2018
   subtitle: B.Sc. Industrial and product design
-  timeline-side: left
+  timeline-side: right
