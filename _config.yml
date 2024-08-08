@@ -84,7 +84,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: +33 780 442 338 / 21 Lange Niezel, Amsterdam 1012GS
+contact_description: +33 780 442 338 / Lange Niezel, Amsterdam 1012GS
 
 # GITHUB-METADATA
 # Set this to your forked repository
