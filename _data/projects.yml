@@ -76,3 +76,11 @@
     - tag: C
     - tag: Shell
     - tag: Assembly
+
+- name: Information Retrieval
+  descr: ""
+  demo: https://example.com/
+  tags:
+    - tag: Conda
+    - tag: JupyterNotebook
+    - tag: Python
