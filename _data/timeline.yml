@@ -37,7 +37,7 @@
     - tag: JavaScript
     - tag: HTML5
     - tag: React
-    - tag: APIs
+    - tag: RestfullAPIs
   timeline-side: right
 
 - title: VRIJE UNIVERSITEIT
@@ -78,4 +78,8 @@
   title-url: https://www.eesab.fr/brest/
   date: Sep 2014 - May 2018
   subtitle: B.Sc. Industrial and product design
+  tags:
+    - tag: Blender
+    - tag: Unreal
+    - tag: Adobe
   timeline-side: right

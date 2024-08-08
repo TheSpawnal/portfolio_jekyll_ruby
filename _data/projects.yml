@@ -77,10 +77,19 @@
     - tag: Shell
     - tag: Assembly
 
-- name: Information Retrieval
-  descr: ""
-  demo: https://example.com/
+- name: Effective Information Retrieval Methodologies
+  descr: "#Modern and Effective Information Retrieval Methodologies"
+  demo: https://github.com/TheSpawnal/information_retrieval
+  tags:
+    - tag: Conda
+    - tag: Python
+    - tag: IoT
+
+- name: Machine Learning; HR Advisory Report
+  descr: "This HR Advisory Report (Simulation) employs advanced machine learning techniques, specifically k-nearest neighbors (k-NN) and neural networks, to enhance hiring and personnel strategies. It refines previous explorations based on feedback, methodically selects and validates models using consistent inputs and rigorous hyperparameter tuning targeting over 90% in key performance metrics. The report features comparative visualizations to delineate model performances and explores the chosen model’s impact on diverse demographic groups, assessing equity and effectiveness in implementation to ensure that recommendations uphold inclusive and practical HR practices."
+  demo: https://github.com/TheSpawnal/ML_HR_report
   tags:
     - tag: Conda
     - tag: JupyterNotebook
     - tag: Python
+    - tag: LaTex
