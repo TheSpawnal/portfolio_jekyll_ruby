@@ -37,12 +37,13 @@
 
 - name: Deep Learning and Embedded Computing; Image Live Recognition
   descr: "Development of an SSH Tunneling Application Leveraging targeted Android phone cameras for real-time image recognition and analysis."
-  demo: https://github.com/TheSpawnal/portofolio_jekyll_ruby/SSH/landpage.html
-  video demo: https://youtu.be/HR77nQJ1lA0
+  demo: https://thespawnal.github.io/portofolio_jekyll_ruby/SSH/landpage.html
+  demo: https://youtu.be/HR77nQJ1lA0
   tags:
     - tag: MATLAB
     - tag: C/C++
     - tag: Wireshark
+    - tag: Android 
 
 - name: Data Wrangling; Central Bank Interest Rates Affect the Major Stock Market
   descr: "This project investigates the impact of central bank interest rate adjustments on major U.S. stock market indices, particularly the S&P 500, utilizing advanced data wrangling techniques, to explore how changes in the federal funds rate influence financial market dynamics."
