@@ -52,4 +52,12 @@
     - tag: Pandas
     - tag: Matplotlib
     - tag: Seaborn
+
+- name: Compiler-Explorer
+  descr: "Delving into the black box of compilers with Compiler-Explorer(Godbolt reverse engineering). Minimalist GUI application taking as input C++ code, executing translations into assembly. Configurations option for the current optimization level with compilers collection comparisons."
+  demo: https://example.com/
+  tags:
+    - tag: C++
+    - tag: Python
+    - tag: Assembly
     
