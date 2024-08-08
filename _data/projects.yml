@@ -54,10 +54,25 @@
     - tag: Seaborn
 
 - name: Compiler-Explorer
-  descr: "Delving into the black box of compilers with Compiler-Explorer(Godbolt reverse engineering). Minimalist GUI application taking as input C++ code, executing translations into assembly. Configurations option for the current optimization level with compilers collection comparisons."
+  descr: "Delving into the black box of compilers with Compiler-Explorer (Godbolt reverse engineering). Minimalist GUI application taking as input C++ codes, executing translations into assembly. Configuration option for the current optimization level with compilers collection comparisons."
   demo: https://example.com/
   tags:
     - tag: C++
     - tag: Python
     - tag: Assembly
-    
+
+- name: Object Oriented and Functional Programming under Scala
+  descr: "This project involves the deployment of three distinct software applications: a Snake game, a Tetris game, and a Scala REPL (Read-Evaluate-Print-Loop) command-line interpreter. Each program demonstrates advanced programming techniques in Scala, including generic subtyping, inheritance, the use of commonly utilized higher-order functions, pattern matching, and polymorphism, showcasing the versatile application of functional and object-oriented programming paradigms in real world software development."
+  demo: https://example.com/
+  tags:
+    - tag: Scala
+    - tag: JavaScript
+    - tag: Shell
+
+- name: Operating Systems
+  descr: "This consequent project encompasses four critical areas of operating systems: a shell, a memory allocator, file system management, and concurrency control, implemented on a remote Linux system. It digs into the intricacies of memory management, processes, file systems, and I/O without the use of inter-process communication (IPC), and explores advanced OS concepts such as syscalls, signals, pipes, interrupts, mutual exclusion, semaphores, monitors, read-write locking, segmentation, file system management reliability, FUSE-based file systems, deadlock resolution, I/O device management, Qubes, and virtualization techniques."
+  demo: https://example.com/
+  tags:
+    - tag: C
+    - tag: Shell
+    - tag: Assembly
