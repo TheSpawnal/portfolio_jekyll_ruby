@@ -15,17 +15,19 @@
 
 - name: ISA IJVM Emulator
   descr: "A low level programming journey MIC-1 architecture."
-  demo: https://example.com/
+  demo: https://github.com/TheSpawnal/ISA_IJVM_demo_src_removed
   tags: 
     - tag: JAS
     - tag: GNU/GCC
     - tag: C
     - tag: GDB
     - tag: Java
+    - tag: Brainf*ck
+    - tag: Beef
 
 - name: Machine Learning; Stock Price Prediction Method based on LSTM and extensions
   descr: "The project demonstrates the efficacy of combining LSTM with its extensions (CNN, Bi-LSTM, LSTM-K-means, Stacked LSTM), offering significant improvements in prediction accuracy and model adaptability to market dynamics. This study not only contributes to the field of stock price prediction but also opens new avenues for the application of machine learning in financial analysis."
-  demo: https://example.com/
+  demo: https://github.com/TheSpawnal/stock_prices_predictions_LSTM_s/blob/main/ML_97_report.pdf
   tags:
     - tag: Python
     - tag: Keras
