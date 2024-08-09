@@ -36,9 +36,8 @@
     - tag: .csv
 
 - name: Deep Learning and Embedded Computing; Image Live Recognition
-  descr: "Development of an SSH Tunneling Application Leveraging targeted Android phone cameras for real-time image recognition and analysis."
-  demo: https://thespawnal.github.io/portofolio_jekyll_ruby/SSH/landpage.html
-  demo: https://youtu.be/HR77nQJ1lA0
+  descr: "Development of an SSH Tunneling Application Leveraging targeted Android phone cameras for real-time image recognition and analysis. This is not an open source project, if you want to know more about, get in touch !(click on demo for a short video about the rendering)"
+  demo: https://thespawnal.github.io/portofolio_jekyll_ruby/
   tags:
     - tag: MATLAB
     - tag: C/C++
