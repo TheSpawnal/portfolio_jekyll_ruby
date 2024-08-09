@@ -48,7 +48,7 @@
 
 - name: Data Wrangling; Central Bank Interest Rates Affect the Major Stock Market
   descr: "This project investigates the impact of central bank interest rate adjustments on major U.S. stock market indices, particularly the S&P 500, utilizing advanced data wrangling techniques, to explore how changes in the federal funds rate influence financial market dynamics."
-  demo: https://example.com/
+  demo: https://github.com/TheSpawnal/Data_Wrangling_py/blob/main/DW_report_63_v4.pdf
   tags:
     - tag: Jupyter Notebook
     - tag: Numpy
