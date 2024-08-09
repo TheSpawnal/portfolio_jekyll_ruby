@@ -59,7 +59,7 @@
 
 - name: Compiler-Explorer
   descr: "Delving into the black box of compilers with Compiler-Explorer (Godbolt reverse engineering). Minimalist GUI application taking as input C++ codes, executing translations into assembly. Configuration option for the current optimization level with compilers collection comparisons."
-  demo: https://example.com/
+  demo: https://github.com/TheSpawnal/compiler_explorer
   tags:
     - tag: C++
     - tag: Python
