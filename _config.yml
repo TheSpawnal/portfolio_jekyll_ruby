@@ -36,7 +36,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I am a versatile problem solver and trusted advisor, specialising as a full-stack software engineer with a deep seated passion for backend development, cloud architecture, and financial technologies. My professional journey is marked by experiences in front-end development and my studies and thematics were strongly oriented toward  machine learning projects, including sophisticated stock price prediction models and the design of distributed computing environments utilizing cluster systems. My skill set is complemented by a strategic mindset, with particular expertise in cybersecurity operations, notably within Red Team activities.
+about_me_description: I am a versatile problem solver and trusted advisor, with a deep seated passion for back-end development, cloud architecture, and financial technologies. My professional journey is marked by experiences in front-end development and my studies and thematic were strongly oriented toward  machine learning projects, including sophisticated stock price prediction models and the design of distributed computing environments utilizing cluster systems. My skill set is complemented by a strategic mindset, with particular expertise in cybersecurity operations, notably within Red Team activities.
 
 
 # SKILLS SECTION
