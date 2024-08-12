@@ -8,7 +8,7 @@ description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 #url: "https://github.com/TheSpawnal/portofolio_jekyll_ruby"
-baseurl: "/portofolio_jekyll_ruby"
+baseurl: "/portfolio_jekyll_ruby"
 #url: "https://github.com/TheSpawnal/portofolio_jekyll_ruby"
 
 # LANDING PAGE
@@ -56,7 +56,7 @@ show_timeline_card: true
 timeline_title: Educations & Experiences
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://thespawnal.github.io/portofolio_jekyll_ruby/CV_aldej_gh.pdf
+cv_download_link: https://thespawnal.github.io/portfolio_jekyll_ruby/CV_aldej_gh.pdf
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -89,7 +89,7 @@ contact_description: +33 780 442 338 / Lange Niezel, Amsterdam 1012GS
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: TheSpawnal/portofolio_jekyll_ruby
+repository: TheSpawnal/portfolio_jekyll_ruby
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
