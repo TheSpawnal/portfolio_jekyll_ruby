@@ -39,7 +39,7 @@
 
 - name: Deep Learning and Embedded Computing; Image Live Recognition
   descr: "Development of an SSH Tunneling Application Leveraging targeted Android phone cameras for real-time image recognition and analysis."
-  demo: https://thespawnal.github.io/portofolio_jekyll_ruby/SSH/landpage.html
+  demo: https://thespawnal.github.io/portfolio_jekyll_ruby/SSH/landpage.html
   tags:
     - tag: MATLAB
     - tag: C/C++
@@ -75,7 +75,7 @@
 
 - name: Operating Systems
   descr: "This consequent project encompasses four critical areas of operating systems: a shell, a memory allocator, file system management, and concurrency control, implemented on a remote Linux system. It digs into the intricacies of memory management, processes, file systems, and I/O without the use of inter-process communication (IPC), and explores advanced OS concepts such as syscalls, signals, pipes, interrupts, mutual exclusion, semaphores, monitors, read-write locking, segmentation, file system management reliability, FUSE-based file systems, deadlock resolution, I/O device management, Qubes, and virtualization techniques."
-  demo: https://thespawnal.github.io/portofolio_jekyll_ruby/SSH/landpage_2.html
+  demo: https://thespawnal.github.io/portfolio_jekyll_ruby/SSH/landpage_2.html
   tags:
     - tag: C
     - tag: Shell
